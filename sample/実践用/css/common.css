@@ -181,6 +181,10 @@ main a.button:active { text-decoration: none; }
 	text-align: center;
 }
 
+.price{
+	font-size: 2em;
+	color: red;
+}
 /* ----------------------
  画面の横幅が599px以下の場合に適用（スマートフォン用）
  ---------------------- */
