@@ -3,7 +3,7 @@
 /* 基本の設定
  -------------------------------------------- */
 body {
-	font-family: 'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+	font-family: "Sawarabi Mincho";
 	font-size: 16px;
 	line-height: 1.7;
 	margin: 0;
@@ -13,7 +13,7 @@ body {
 section,article, aside, nav, header, main, footer { display: block; }
 
 h1,h2,h3,h4 {
-	font-family: "Montserrat",sans-serif;
+	font-family: "Sawarabi Mincho";
 	font-weight: normal;
 }
 
@@ -61,7 +61,7 @@ header nav ul li{
 }
 header nav ul li a{
 	color: #FFF;
-	font-family: "Montserrat",sans-serif;
+	font-family: "Sawarabi Mincho";
 	font-size: 16px;
 	padding: 0 1em;
 }
@@ -89,7 +89,7 @@ main a:hover, main a:active  { text-decoration: underline; }
 footer {
 	background-color: #114046;
 	color: #40666a;
-	font-family: "Montserrat",sans-serif;
+	font-family: "Sawarabi Mincho";
 	text-align:center;
 	width: 100%;
 	padding: 6em 0;
