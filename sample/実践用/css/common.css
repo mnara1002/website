@@ -89,6 +89,9 @@ main a:hover, main a:active  { text-decoration: underline; }
 h1::after{
 	content: "(笑)";
 }
+p::after{
+	content: "(笑)";
+}
 
 /* フッター
  -------------------------------------------- */
